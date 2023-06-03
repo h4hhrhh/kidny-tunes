@@ -1,0 +1,129 @@
+/*******************************tag-selecters**********************************************************/
+
+body {
+    color: #000000;
+    background-color: #FDDBDB;
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Geologica', sans-serif;
+}
+
+a {
+    color: #569DAA;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+a:hover {
+    color: white;
+}
+
+hr {
+    border: dotted #F6A2A2 6px; 
+    border-bottom: none;
+    margin: 20px auto;
+    width: 8%;
+ }  
+
+
+
+
+
+
+
+
+
+/*******************************class-selecters*********************************************************/
+
+.btn {
+    background: #e01212;
+    background-image: -webkit-linear-gradient(top, #e01212, #000000);
+    background-image: -moz-linear-gradient(top, #e01212, #000000);
+    background-image: -ms-linear-gradient(top, #e01212, #000000);
+    background-image: -o-linear-gradient(top, #e01212, #000000);
+    background-image: linear-gradient(to bottom, #e01212, #000000);
+    -webkit-border-radius: 54;
+    -moz-border-radius: 54;
+    border-radius: 54px;
+    text-shadow: 1px 1px 3px #cc78cc;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffd6d6;
+    font-size: 27px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 100px auto;
+    margin-bottom: 100px;
+  }
+  
+  .btn:hover {
+    background: #ff0000;
+    background-image: -webkit-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -moz-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -ms-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -o-linear-gradient(top, #ff0000, #ff0000);
+    background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+    text-decoration: none;
+  }
+
+  .head {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 50px;
+
+  }
+
+  .tunes {
+    color: white;
+    background-color: red;
+    border-radius: 50px;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 300px;
+    margin: 30px auto;
+  }
+
+  .listen {
+    margin: 20px;
+    margin-bottom: 50px;
+  }
+
+  .best {
+    color: #FF0000;
+    margin-bottom: 50px;
+    margin-top: 100px;
+  }
+
+  .satisfya {
+    margin-bottom: 100px;
+    border: solid black 5px;
+    border-radius: 20px;
+  }
+
+  .ayyo {
+    margin-bottom: 100px;
+    margin-left: 30px;
+    border: solid black 5px;
+    border-radius: 20px;
+  }
+
+  .bottom-container {
+    background-color: #FF5555;
+    padding: 50px 0 20px;
+  }
+
+  .copyright {
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
